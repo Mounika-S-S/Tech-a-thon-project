@@ -12,7 +12,9 @@ This project is a basic mental health chatbot built using Python, Flask, HTML, C
 FEATURES:
 Features of the Stress Relief Chatbot
 •	Interactive Chat Interface: The chatbot provides an interactive chat interface that allows users to communicate with the bot in real-time through a web browser.
+
 •	Predefined Responses: The chatbot can recognize certain keywords or phrases and respond with predefined messages. This includes greeting users, answering basic questions, and saying goodbye.
+
 •	Stress-Related Support: The chatbot offers support to users who mention feeling stressed or anxious. It responds with options for stress-relief techniques, providing a personalized and empathetic experience.
 •	Guided Breathing Exercise: The chatbot suggests a simple breathing exercise when users express the need to relax or mention breathing. This helps users calm down and manage their stress.
 •	Progressive Muscle Relaxation Technique: When users show interest in relaxation, the chatbot guides them through a progressive muscle relaxation exercise, promoting physical and mental relaxation.
